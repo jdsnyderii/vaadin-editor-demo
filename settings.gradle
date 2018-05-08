@@ -1,0 +1,3 @@
+rootProject.name = 'editor'
+
+enableFeaturePreview('IMPROVED_POM_SUPPORT')
